@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.indir/*.csv
+/indir/*.csv
+.DS_Store
 
